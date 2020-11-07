@@ -1,0 +1,50 @@
+button {
+    background-color: aqua;
+    font-size:xx-large;
+    padding-top: 7px;
+    padding-left:7px;
+    padding-bottom: 7px;
+    padding-right: 7px;
+    border:2px solid black;
+    cursor: pointer;
+}
+body {
+    background: url("https://cdn.britannica.com/47/148847-131-607DD61C/Cricket-bat-ball.jpg");
+}
+.button1 {
+    background-color: orange;
+    border-radius: 50%;
+    border: 5px;
+    padding: 20px;
+    border-color: black;
+    text-align: center;
+    position:absolute; 
+    left: 100px;
+    top: 100px;
+}
+.button2 {
+    position:absolute; 
+    left: 500px;
+    top: 500px;
+    background-color: yellow;
+    padding-top: 20px;
+    padding-left:20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border:5px solid black;
+}
+.button3 {
+    position:absolute; 
+    left: 1000px;
+    top: 500px;
+    background-color: yellow;
+    padding-top: 20px;
+    padding-left:20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border:5px solid black;
+}
+.toc-backref {
+    color: black;
+    font-size:xx-large;
+}
